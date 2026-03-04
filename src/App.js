@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>สวัสดีครับ ยินดีต้อนรับสู่โปรเจกต์ของ imnutt!</h1>
+        <h1>สวัสดีครับ ยินดีต้อนรับสู่โปรเจกต์ของ Nutt</h1>
         <p>ผมกำลังหัดเขียน React บน Chromebook ครับ 🚀</p>
         
         <div className="card">
